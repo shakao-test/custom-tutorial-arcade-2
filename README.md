@@ -1,4 +1,8 @@
 # tutorial
+
+## Step 1
+Tutorial step
+
 ```blocks
 let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 

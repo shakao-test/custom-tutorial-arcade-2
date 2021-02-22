@@ -8,9 +8,7 @@
         "main.blocks",
         "README.md",
         "assets.json",
-        "tutorial.md",
-        "images.g.jres",
-        "images.g.ts"
+        "tutorial.md"
     ],
     "testFiles": [],
     "targetVersions": {
